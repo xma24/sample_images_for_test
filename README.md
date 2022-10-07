@@ -1,0 +1,1 @@
+# sample_images_for_test
